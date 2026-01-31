@@ -1,6 +1,6 @@
 # ToDo  Web Application  
-<pre>																															[Live Demo](https://hsj71.github.io/ToDoWeb/)  
-</pre>
+																														[Live Demo](https://hsj71.github.io/ToDoWeb/)  
+
 ## https://hsj71.github.io/ToDoWeb/
 
 ---
